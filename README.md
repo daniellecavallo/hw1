@@ -1,6 +1,8 @@
 # code refacture homework 
 
-Changed placeholder elements to detailed elements 
+Changed placeholder elements to detailed elements to create a page for Horiseon.
+Deployed Link Here https://daniellecavallo.github.io/hw1/
+https://github.com/daniellecavallo/hw1
 
 ## evaluated source code issues 
 
